@@ -1,0 +1,15 @@
+Discover hidden places in the world around you (verdana, normal, 50px, white, centered)
+
+Download Excursion (Coming soon!) (aquamarine, 16px)
+  here is excursion.mp4
+
+Your personal travel guide ( verdana, font weight :300, 42px)
+
+Excursion remembers places you like, and recommends new points of interest around you. (verdana,21px,gray)
+  here is camp.webp
+
+  here is phone.webp
+
+Coming soon for iPhone and Android
+
+                                                                        c Excursion (text align Right, gray)

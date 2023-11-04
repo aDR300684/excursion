@@ -1,0 +1,41 @@
+body {
+    font-family: 'Verdana', sans-serif;
+}
+
+header h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+header p {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+.video-container video {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.guide h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.guide p {
+    font-size: 21px;
+    color: gray;
+}
+
+.images img {
+    display: block;
+    margin: 20px auto; /* This centers the image and adds some space around them */
+}
+
+footer p {
+    color: gray;
+    text-align: right;
+}
